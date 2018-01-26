@@ -1,3 +1,3 @@
 # UC-Berkeley-Pacman-Project-1
 
-These files provide the solution for the UC Berkeley Pacman project 1. The problem statement for the same can be found at http://ai.berkeley.edu/search.html
+The above files provide solution to the UC Berkeley Pacman Project 1. The problem statement and other necessary files for execution of the program can be found at http://ai.berkeley.edu/search.html
